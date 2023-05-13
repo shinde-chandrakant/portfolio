@@ -1,123 +1,42 @@
+# SDE Portfolio
 ---
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- [LinkedIn](./another-page.html). -->
 
-[Link to another page](./another-page.html).
+### Bike sharing demand prediction analysis for BoomBikes ltd
 
-There should be whitespace between paragraphs.
+Built a multiple linear regression model to predict shared bike demand post-quarantine. Identified key variables affecting revenue and assessed model accuracy in describing bike demand.  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shinde-chandrakant/BoomBikes-bike-sharing-assignment)
 
-# Header 1
+<center><img src="/assets/img/bike-share.png"/></center>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### RSVP Movies analytical Case Study
 
-## Header 2
+Conducted data analysis for RSVP Movies, an Indian film production company, to inform their global release strategy. Analyzed data from movies released in the past three years to draw meaningful insights and help the company plan their next project.  
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shinde-chandrakant/RSVP-MOVIES-case-study-SQL)
 
-### Header 3
+<center><img src="/assets/img/RSVP_Movies_official_logo.jpg"/></center>
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### University Course and Applicant Management System
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Web Application for managing university courses and applicants, allowing users to search for programs, apply online, and manage course offerings. Utilized technologies such as Spring Boot, Swagger API documentation, JUnit tests, Mockito tests, Hibernate, and MySQL  
 
-#### Header 4
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shinde-chandrakant/University-Courses-and-Applicant-Management)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Vaccination
 
-##### Header 5
+A backend application for managing user vaccination information and vaccination center details. Utilized technologies such as MySQL, RESTful APIs, microservices architecture, load balancers, and Hystrix for improved resilience and fault tolerance.  
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shinde-chandrakant/Vaccination)
 
-###### Header 6
+### Housing price prediction
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Help Real Estate business optimize property sale prices based on factors such as area, bedrooms, and parking. Identified key variables affecting house prices and assessed model accuracy in predicting prices.
 
-### There's a horizontal rule below this.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/shinde-chandrakant/housing-price-prediction)
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
+<center><img src="/assets/img/houseprice.jpg"/></center>
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
