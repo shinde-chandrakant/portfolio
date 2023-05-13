@@ -1,16 +1,16 @@
-title: 
-  <p align="center"> Chandrakant Shinde </p>
+title: Minimal1
+  # <p align="center"> Chandrakant Shinde </p>
 logo: /assets/img/profile.jpg
-description: 
-  <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/chandrakant-shinde/">LinkedIn</a> |
-  <a href="https://github.com/shinde-chandrakant">GitHub</a>
-  <br>Seasoned, Forward-looking Software Engineer with 1.5+ years' background in creating and executing innovative
-  software solutions to enhance business productivity. My expertise spans all aspects of the SDLC and end-to-end
-  project management, from concept through to development and delivery. <br>
-  Worked with a team of software engineers in the financial domain at Genpact.
-  # Working in Financial domain for a year.
+description: none
+  # <p align="center">
+  # <a href="pdf/resume.pdf">Resume</a> |
+  # <a href="https://www.linkedin.com/in/chandrakant-shinde/">LinkedIn</a> |
+  # <a href="https://github.com/shinde-chandrakant">GitHub</a>
+  # <br>Seasoned, Forward-looking Software Engineer with 1.5+ years' background in creating and executing innovative
+  # software solutions to enhance business productivity. My expertise spans all aspects of the SDLC and end-to-end
+  # project management, from concept through to development and delivery. <br>
+  # Worked with a team of software engineers in the financial domain at Genpact.
+  # # Working in Financial domain for a year.
   <br></p>
 # show_downloads: true
 # google_analytics:
